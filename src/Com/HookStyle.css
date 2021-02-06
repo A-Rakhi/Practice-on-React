@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(241, 237, 232, 0.863);
+}
+
+.hook{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    padding: 13px 20px;
+    background: #02a02a;
+    color: rgb(2, 43, 5);
+    border: 2px solid #0b9429;
+    outline: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: bold;
+}
+

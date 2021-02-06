@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .card-group{
+     display: inline-block;
+ }
+.card {
+    width: 300px;
+    margin: 65px;
+    box-shadow: 2px;
+    box-shadow: 0px 0px 1px 1px #80808066;
+    border-radius: 10px;
+}
